@@ -68,5 +68,8 @@ To uninstall SwingShift from your computer, follow these steps:
 
 - **Windows**: Go to "Control Panel" > "Programs" > "Uninstall a program." Find SwingShift in the list and select "Uninstall."
 - **macOS**: Drag the SwingShift application icon to the "Trash" and empty the "Trash."
+## Contributing:
+
+We welcome contributions to improve SwingShift! Feel free to fork this repository, make changes, and submit a pull request.
 
 We hope this help page has provided you with the necessary information to use SwingShift effectively. Enjoy seamless file conversions with SwingShift!

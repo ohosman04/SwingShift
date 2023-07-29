@@ -4,8 +4,9 @@ SwingShift is a powerful desktop application designed to simplify the process of
 
 ## Installation Instructions:
 
-To install SwingShift from your computer, follow these steps:
-
+1.Create a Directory: Make a new directory called "lib" in the location where you want to install SwingShift.
+2.Move Library Contents: Take the contents of each numbered lib file (e.g., "lib1", "lib2") and move them all to the newly created "lib" directory.
+3.Run on IDE: Open the project in your preferred Integrated Development Environment (IDE) such as VSCode.
 
 ## Supported File Conversions:
 
@@ -22,19 +23,20 @@ SwingShift covers an extensive array of formats, offering conversion options for
 
 ## System Requirements:
 
-Before using SwingShift, ensure your computer meets the minimum requirements:
+Before using SwingShift, make sure your system meets the following minimum requirements:
 
-- Operating System: Windows 10, macOS 10.12, or above
-- Processor: 1.5 GHz dual-core CPU
-- RAM: 2 GB
-- Free Disk Space: 50 MB
+-Operating System: Windows 10, macOS 10.12, or above
+-Java Development Kit (JDK) 16 or above installed
+-Processor: 1.5 GHz dual-core CPU
+-RAM: 2 GB
+-Free Disk Space: 50 MB
 
 ## How to Convert Files with SwingShift:
 
-1. Launch SwingShift: Double-click the SwingShift icon on your desktop or find it in your Applications folder.
-2. Select Conversion Type: Choose the desired conversion type from the list of supported formats.
-3. Add Files: Click the "Add Files" button to select the files you want to convert.
-4. Destination Folder: A "Download" button will signify the status of a completed conversion, click it to choose the destination folder where the converted files will be saved. You can either specify a folder path or use the default destination.
+1.Launch SwingShift: Open the project in your IDE and locate the main class (e.g., Main.java). Run the application by executing the main method.
+2.Select Conversion Type: Choose the desired file conversion type from the list of supported formats.
+3.Add Files: Click the "Add Files" button to select the files you want to convert.
+4.Destination Folder: After the conversion is complete, click the "Download" button to choose the destination folder for the converted files.
 
 ## Tips for Optimal Results:
 
@@ -43,11 +45,11 @@ Before using SwingShift, ensure your computer meets the minimum requirements:
 
 ## Troubleshooting:
 
-Encountering issues with SwingShift? Check out these common troubleshooting tips:
+If you encounter any issues while using SwingShift, consider the following steps:
 
-1. Ensure you have the latest version of SwingShift installed.
-2. Verify that your system meets the minimum requirements listed in this help page.
-3. Try restarting the application or your computer if you encounter unexpected behavior.
+1.Ensure you have JDK 16 or above installed.
+2.Verify that your system meets the minimum requirements.
+3.Make sure you have correctly set up the "lib" directory with the required external libraries.
 
 ## Uninstallation Instructions:
 

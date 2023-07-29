@@ -1,0 +1,96 @@
+<html>
+<head>
+    <style>
+        body {
+            font-family: Calibri, sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #009999;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #ff6347;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Help</h1>
+    <p>
+        SwingShift is a powerful desktop application designed to simplify the process of converting various file types quickly and efficiently.
+        Whether you need to convert images, documents, or audio files, SwingShift has you covered. 
+        This help page will guide you through the conversion process and provide valuable tips for optimal results.
+    </p>
+    <h1>Supported File Conversions:</h1>
+    <p>
+        SwingShift covers an extensive array of formats, offering conversion options for the most commonly used file types. 
+
+        Our application currently supports the following conversions:
+
+        <p>JPEG to PDF</p>
+        <p>PDF to JPEG</p>
+        <p>PNG to JPEG</p>
+        <p>PPT to PDF</p>
+        <p>PDF to JPEG</p>
+        <p>JPEG to PDF</p>
+        <p>WAV to MP3</p>
+        <p>MP3 to WAV</p>
+    </p>
+
+    <h1>System Requirements:</h1>
+    <p>
+        Before using SwingShift, ensure your computer meets the minimum requirements:
+
+        <p>- Operating System: Windows 10, macOS 10.12, or above</p>
+        <p>- Processor: 1.5 GHz dual-core CPU</p>
+        <p>- RAM: 2 GB</p>
+        <p>- Free Disk Space: 50 MB</p>
+    </p>
+
+    <h1>How to Convert Files with SwingShift:</h1>
+    <p>
+        <p>1- Launch SwingShift: Double-click the SwingShift icon on your desktop or find it in your Applications folder.</p>
+</p>
+        <p>2- Select Conversion Type: Choose the desired conversion type from the list of supported formats.</p>
+</p>
+        <p>3- Add Files: Click the "Add Files" button to select the files you want to convert.</p>
+
+        <p>4- Destination Folder: A "Download" button will signify the status of a completed conversion, click it to choose the destination folder where the converted files will be saved. You can either specify a folder path or use the default destination.</p>        
+    </p>
+
+    <h1>Tips for Optimal Results:</h1>
+    <p>
+        <p>- When converting images, higher quality input files will generally yield better results.</p>
+        <p>- When converting audio files, consider the trade-off between sound quality and file size when selecting the output format.</p>
+    </p>
+    <h1>Troubleshooting:</h1>
+    <p>
+        Encountering issues with SwingShift? Check out these common troubleshooting tips:
+
+        <p>1- Ensure you have the latest version of SwingShift installed.</p>
+        <p>2- Verify that your system meets the minimum requirements listed in this help page.</p>
+        <p>3- Try restarting the application or your computer if you encounter unexpected behavior.</p>
+    </p>
+    <h1>Uninstallation Instructions:</h1>
+    <p>
+        <p>To uninstall SwingShift from your computer, follow these steps:</p>
+
+        <p>-Windows: Go to "Control Panel" > "Programs" > "Uninstall a program." Find SwingShift in the list and select "Uninstall."</p>
+        <p>-macOS: Drag the SwingShift application icon to the "Trash" and empty the "Trash."</p>
+    </p>
+    <p>
+        We hope this help page has provided you with the necessary information to use SwingShift effectively. 
+        Enjoy seamless file conversions with SwingShift!
+    </p>
+
+</body>
+</html>

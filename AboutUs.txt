@@ -1,0 +1,94 @@
+<html>
+<head>
+    <style>
+        body {
+            font-family: Calibri, sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #009999;
+        }
+        h2 {
+            font-size: 18px;
+            font-weight: underline;
+            color: #006666;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #ff6347;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>About SwingShift</h1>
+    <p>
+        Welcome to SwingShift, the all-in-one desktop application designed to make file conversion a breeze. 
+        With SwingShift, you can easily transform various file formats with just a few clicks, saving you time and effort. 
+        Whether you're a professional seeking a reliable tool for your daily tasks or an occasional user looking for simplicity and efficiency, SwingShift is here to cater to all your file conversion needs.
+    </p>
+    <h1>Our Mission</h1>
+    <p>
+        At SwingShift, our mission is to empower users with a straightforward and powerful file converter that supports a wide range of formats. 
+        We understand the frustration of dealing with incompatible files and the need for a versatile tool that simplifies the conversion process. 
+        Our goal is to provide a seamless experience so that you can focus on your work or creative endeavors without being held back by technical barriers.
+    </p>
+    <h1>Key Features</h1>
+    <h2>1. Comprehensive Format Support:</h2>
+    <p>
+        SwingShift covers an extensive array of formats, offering conversion options for the most commonly used file types. 
+
+        Our application currently supports the following conversions:
+
+        <p>JPEG to PDF</p>
+        <p>PDF to JPEG</p>
+        <p>PNG to JPEG</p>
+        <p>PPT to PDF</p>
+        <p>PDF to JPEG</p>
+        <p>JPEG to PDF</p>
+        <p>WAV to MP3</p>
+        <p>MP3 to WAV</p>
+    </p>
+
+    <h2>2. User-Friendly Interface: </h2>
+    <p>
+        We believe that a file converter should be intuitive and easy to use. 
+        SwingShift features a user-friendly interface that allows anyone to initiate conversions effortlessly. 
+        No complicated menus or confusing options - just a simple and straightforward process.
+    </p>
+
+    <h2>3. High-Quality Conversions: </h2>
+    <p>
+        Maintaining the quality of your files during conversion is of utmost importance to us. 
+        SwingShift ensures that your images and audio files retain their original resolution and fidelity, delivering a seamless transition from one format to another.
+    </p>
+
+    <h2>4. Offline Functionality:</h2>
+    <p>
+        SwingShift is designed as a desktop application, meaning you can convert your files offline without the need for an internet connection. 
+        Your privacy and data security are essential to us, and we prioritize keeping your sensitive files on your device.
+    </p>
+    <h1>Our Commitment</h1>
+    <p>
+        At SwingShift, we are committed to delivering a seamless file conversion experience that meets and exceeds your expectations. 
+        We continually update and improve our application to ensure it remains compatible with the latest file formats and operating systems. 
+    </p>
+    <h1>Get Started with SwingShift</h1>
+    <p>
+        Discover the power of effortless file conversion with SwingShift. 
+        Download our application today and explore the convenience and versatility it offers. 
+        Say goodbye to compatibility issues and welcome a new era of smooth, reliable file conversion.
+
+        Join SwingShift and simplify your file conversions today!
+    </p>
+
+</body>
+</html>

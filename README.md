@@ -2,6 +2,11 @@
 
 SwingShift is a powerful desktop application designed to simplify the process of converting various file types quickly and efficiently. Whether you need to convert images, documents, or audio files, SwingShift has you covered. This user-friendly tool offers seamless and fast conversion options for a wide range of formats.
 
+## Installation Instructions:
+
+To install SwingShift from your computer, follow these steps:
+
+
 ## Supported File Conversions:
 
 SwingShift covers an extensive array of formats, offering conversion options for the most commonly used file types. Our application currently supports the following conversions:

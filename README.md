@@ -44,7 +44,7 @@ Before using SwingShift, make sure your system meets the following minimum requi
 
 -RAM: 2 GB
 
--Free Disk Space: 50 MB
+-Free Disk Space: At least 150 MB
 
 ## How to Convert Files with SwingShift:
 

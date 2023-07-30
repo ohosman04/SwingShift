@@ -11,7 +11,8 @@ SwingShift is a powerful desktop application designed to simplify the process of
 3.Package as JAR
 Now, use the jar command that comes with the Java Development Kit (JDK) to package your compiled classes and the manifest file into a JAR file. Open a command prompt (or terminal) and navigate to the SwingShift directory and manifest.txt are located. Then run the following command:
 
-jar cfm SwingShift.jar manifest.txt -C bin . -C lib . *.png *.txt
+jar cfm SwingShift.jar manifest.txt -C bin . -C lib . *.png *.txt logo.png AboutUs.txt Help.txt jpg.png mp3.png pdf.png pngpic.png ppt.png right-arrow.png wav.png
+
   
 4.Run the Batch File: Open the "Launch" batch file
 

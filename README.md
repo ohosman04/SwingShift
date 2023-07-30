@@ -8,7 +8,12 @@ SwingShift is a powerful desktop application designed to simplify the process of
 
 2.Move Library Contents: Take the contents of each numbered lib file (e.g., "lib1", "lib2") and move them all to the newly created "lib" directory.
 
-3.Run on IDE: Open the project in your preferred Integrated Development Environment (IDE) such as VSCode.
+3.Package as JAR
+Now, use the jar command that comes with the Java Development Kit (JDK) to package your compiled classes and the manifest file into a JAR file. Open a command prompt (or terminal) and navigate to the SwingShift directory and manifest.txt are located. Then run the following command:
+
+jar cfm SwingShift.jar manifest.txt -C bin . -C lib . *.png *.txt
+  
+4.Run the Batch File: Open the "Launch" batch file
 
 ## Supported File Conversions:
 

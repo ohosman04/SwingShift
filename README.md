@@ -4,18 +4,16 @@ SwingShift is a powerful desktop application designed to simplify the process of
 
 ## Installation Instructions:
 
-1.Create a Directory: Make a new directory called "lib" in the SwingShift directory you downloaded from this page.
+1.Extract the downloaded .zip file and navigate to it on your Command Prompt. 
 
-2.Move Library Contents: Take the contents of each numbered lib file (e.g., "lib1", "lib2") and move all the contents (not the lib files themselves) to the newly created "lib" directory.
-
-3.Package as JAR:
+2.Package as JAR:
 
 Now, use the jar command that comes with the Java Development Kit (JDK) to package your compiled classes and the manifest file into a JAR file. Open a command prompt (or terminal) and navigate to the SwingShift directory and manifest.txt are located. Then run the following command:
 
 jar cfm SwingShift.jar manifest.txt -C bin . -C lib . *.png *.txt logo.png AboutUs.txt Help.txt jpg.png mp3.png pdf.png pngpic.png ppt.png right-arrow.png wav.png
 
   
-4.Run the Batch File in the same directoy by typing this command:
+3.Run the Batch File in the same directoy by typing this command:
 
 launcher.bat
 
@@ -70,6 +68,26 @@ If you encounter any issues while using SwingShift, consider the following steps
 2.Verify that your system meets the minimum requirements.
 
 3.Make sure you have correctly set up the "lib" directory with the required external libraries.
+
+## Technologies used:
+
+1- Java
+
+2- VSCode
+
+3- Java Swing Module
+
+4- VSCode
+
+5- Java Abstract Window Toolkit Module
+
+6- Java ilovePDF API
+
+7- Java imageIO
+
+8- Java Apache's PDFBox
+
+9- Java Apache's POIXSLF
 
 ## Contributing:
 
